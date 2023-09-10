@@ -1,0 +1,40 @@
+@font-face {
+    font-family:"teddy-bear" ;
+    src: url(./ffont/teddy-bear.ttf);
+}
+
+
+body{
+    background-color: rgb(188, 212, 218);
+    width: 800;
+    margin: 0 auto;
+}
+h1{
+    color: rgb(247, 4, 8);
+}
+h2{
+    color: rgb(36, 15, 80);
+}
+a{
+    color: rgb(5, 104, 71)
+}
+a:hover{
+    color: #ef1940;
+    text-decoration: underline;
+}
+img{
+    width: 400px;
+    border: 5px solid red;
+    margin-left: 50px;
+
+}
+.bigtext{
+    font-size: 1.1rem;
+}
+.square_markers{
+    list-style-type: square;
+
+}
+.font{
+    font-family:"teddy-bear", sans-serif;
+}
